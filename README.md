@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/twitter/follow/EthicalML.svg?label=Follow)](https://twitter.com/EthicalML/)
 
-# Ethically Aligned Licenses
+# Ethically Aligned Software Licenses
 
 This repository contains a set of "Ethically Aligned Licenses", which consist of a set of the most common open source software licenses modified to require alignment to an ethical framework. The default Ethical Framework provided by default is the [ACM Code of Ethics and Professional Conduct](http://ethics.acm.org) which is also [provided in this repo]().
 
