@@ -1,4 +1,3 @@
-[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
@@ -12,14 +11,14 @@ This repository contains a set of "Ethically Aligned Licenses", which consist of
 
 The current licenses provided include:
 
-* [Ethically Aligned Apache License 2.0]()
-* [Ethically Aligned MIT License]()
-* [Ethically Aligned Mozilla Public License 2.0]()
+* [Ethically Aligned Apache License 2.0](https://github.com/EthicalML/ethically-aligned-licenses/blob/master/LICENSE_EA_MIT)
+* [Ethically Aligned MIT License](https://github.com/EthicalML/ethically-aligned-licenses/blob/master/LICENSE_EA_MIT)
 
 ## Roadmap
 
 We aim to continuously improve this repository, extending the number of licenses we provide. Our current roadmap aims to include the following licenses:
 
+* Ethically Aligned Mozilla Public License 2.0
 * Ethically Aligned GNU License
 * Ethically Aligned LGPL License
 
