@@ -6,17 +6,24 @@
 
 # Ethically Aligned Licenses
 
-This repository contains a set of "Ethically Aligned Licenses", which consist of a set of the most common open source software licenses modified to include the requirements of an ethical framework expected by the practitioners that use the code provided.
+This repository contains a set of "Ethically Aligned Licenses", which consist of a set of the most common open source software licenses modified to require alignment to an ethical framework. The default Ethical Framework provided by default is the [ACM Code of Ethics and Professional Conduct](http://ethics.acm.org) which is also [provided in this repo]().
 
 ## Licenses in this repository
 
-We aim to continuously improve this repository, extending the number of licenses we provide. The current licenses provided include:
+The current licenses provided include:
 
-* Ethically Aligned Apache License 2.0
-* Ethically Aligned MIT License
-* Ethically Aligned Mozilla Public License 2.0
+* [Ethically Aligned Apache License 2.0]()
+* [Ethically Aligned MIT License]()
+* [Ethically Aligned Mozilla Public License 2.0]()
+
+## Roadmap
+
+We aim to continuously improve this repository, extending the number of licenses we provide. Our current roadmap aims to include the following licenses:
+
 * Ethically Aligned GNU License
 * Ethically Aligned LGPL License
+
+If you have further suggestions please feel free to contact us at a@ethical.institute.
 
 
 
