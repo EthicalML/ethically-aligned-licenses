@@ -17,7 +17,7 @@ The current licenses provided include:
 
 ## Roadmap
 
-We aim to continuously improve this repository, extending the number of licenses we provide. Our current roadmap aims to include the following licenses:
+Once we are able to explore the possibilities with the two licenses above, we aim to explore further what can be done with the following licenses:
 
 * Ethically Aligned Mozilla Public License 2.0
 * Ethically Aligned GNU License
