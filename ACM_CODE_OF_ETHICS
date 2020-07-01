@@ -189,3 +189,44 @@ Each ACM member should encourage and support adherence by all computing professi
 The Code and guidelines were developed by the ACM Code 2018 Task Force: Executive Committee Don Gotterbarn (Chair), Bo Brinkman, Catherine Flick, Michael S Kirkpatrick, Keith Miller, Kate Varansky, and Marty J Wolf. Members: Eve Anderson, Ron Anderson, Amy Bruckman, Karla Carter, Michael Davis, Penny Duquenoy, Jeremy Epstein, Kai Kimppa, Lorraine Kisselburgh, Shrawan Kumar, Andrew McGettrick, Natasa Milic-Frayling, Denise Oram, Simon Rogerson, David Shama, Janice Sipior, Eugene Spafford, and Les Waguespack. The Task Force was organized by the ACM Committee on Professional Ethics. Significant contributions to the Code were also made by the broader international ACM membership. This Code and its guidelines were adopted by the ACM Council on June 22nd, 2018.
 
 This Code may be published without permission as long as it is not changed in any way and it carries the copyright notice. Copyright (c) 2018 by the Association for Computing Machinery.
+
+
+
+# References
+
+Added references for the ACM Code of Ethics and Professional Conduct. Since this repository is about addressing ethical issues of machine learning and artificial intelligence, it would only be ethical to abide by norms of academic integrity and cite the ACM Code of Ethics and Professional Conduct.
+
+	@article{Gotterbarn2018b,
+		Address = {New York, {NY}},
+		Author = {Don Gotterbarn and Amy Bruckman and Catherine Flick and Keith Miller and Marty J. Wolf},
+		Doi = {https://dx.doi.org/10.1145/3173016},
+		Journal = {Communications of the {ACM}},
+		Month = {January},
+		Number = {1},
+		Pages = {121--128},
+		Publisher = {{ACM} Press},
+		Title = {{ACM} Code of Ethics: A Guide For Positive Action},
+		Volume = {61},
+		Year = {2018}}
+		
+	@misc{Gotterbarn2018a,
+		Address = {New York, {NY}},
+		Author = {Don Gotterbarn and Bo Brinkman and Catherine Flick and Michael S. Kirkpatrick and Keith Miller and Kate Varansky and Marty J. Wolf and Eve Anderson and Ron Anderson and Amy Bruckman and Karla Carter and Michael Davis and Penny Duquenoy and Jeremy Epstein and Kai Kimppa and Lorraine Kisselburgh and Shrawan Kumar and Andrew {McGettrick} and Natasa {Milic-Frayling} and Denise Oram and Simon Rogerson and David Shama and Janice Sipior and Eugene Spafford and Les Waguespack},
+		Howpublished = {Available online from the {\it {ACM} Committee on Professional Ethics} at: \url{https://www.acm.org/code-of-ethics}; September 19, 2018 was the last accessed date},
+		Month = {June 22},
+		Publisher = {Association for Computing Machinery},
+		Title = {{ACM} Code of Ethics and Professional Conduct},
+		Url = {https://www.acm.org/code-of-ethics},
+		Year = {2018}}
+		
+	@misc{Gotterbarn2018,
+		Address = {New York, {NY}},
+		Author = {Don Gotterbarn and Bo Brinkman and Catherine Flick and Keith Miller and Marty Wolf and Kate Vazansky and Florence Appel and Karla Carter and Fran Grodzinsky and Michael S. Kirkpatrick and Anthony Lobo and Denise Oram and Simon Rogerson},
+		Howpublished = {Available online from the {\it {ACM} Committee on Professional Ethics} at: \url{https://ethics.acm.org}; September 19, 2018 was the last accessed date},
+		Keywords = {code of conduct, code of ethics},
+		Month = {June 22},
+		Publisher = {Association for Computing Machinery},
+		School = {},
+		Title = {{ACM} Code of Ethics and Professional Conduct},
+		Url = {https://ethics.acm.org},
+		Year = {2018}}
